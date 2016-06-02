@@ -1,6 +1,6 @@
 # Site settings
-title: Wows Blog
-SEOTitle: 地瓜他爹的博客 | Wows Blog
+title: 地瓜他爹的博客
+SEOTitle: 地瓜他爹的博客 | wowsai
 header-img: img/home-bg.jpg
 email: yondy.chow@gmail.com
 description: "关于前端与设计、黑客与画家 | 地瓜他爹，Software Engineer | 这里是 @Wows地瓜他爹 的个人博客，与你一起发现更大的世界。"
@@ -14,7 +14,7 @@ encoding: utf-8
 RSS: false
 weibo_username:     看守月亮的树
 zhihu_username:     地瓜他爹
-github_username:    Wows
+github_username:    wowsai
 #twitter_username:  huxpro
 facebook_username:  地瓜他爹
 # linkedin_username:  firstname-lastname-idxxxx
