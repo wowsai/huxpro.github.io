@@ -7,8 +7,8 @@ description: "关于前端与设计、黑客与画家 | 地瓜他爹，Software 
 keyword: "地瓜他爹, 地瓜他爹的博客, Wows Blog, 博客, 个人网站, 互联网, Java, 程序设计, 算法"
 url: "http://Wows.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
-
-
+timezone: Asia/Shanghai
+encoding: utf-8
 
 # SNS settings
 RSS: false
