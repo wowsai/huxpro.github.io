@@ -3,7 +3,7 @@ title: @Yondy Blog
 SEOTitle: 地瓜他爹的博客 | yondyblog
 header-img: img/home-bg.jpg
 email: yondy.chow@gmail.com
-description: "关于前端与设计、黑客与画家 | 地瓜他爹，Software Engineer | 这里是 @Wows地瓜他爹 的个人博客，与你一起发现更大的世界。"
+description: "关于前端与设计、黑客与画家 | 地瓜他爹，Software Engineer | 这里是 @Yondy 地瓜他爹 的个人博客，与你一起发现更大的世界。"
 keyword: "地瓜他爹, 地瓜他爹的博客, Wows Blog, 博客, 个人网站, 互联网, Java, 程序设计, 算法"
 url: "http://wowsai.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
